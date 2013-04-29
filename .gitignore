@@ -1,0 +1,7 @@
+*.d
+*.o
+*.so
+*.log
+Makefile
+wireless_manager
+moc_*
